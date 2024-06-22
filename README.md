@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ivo-tisljar
-- 👀 I’m interested in Delphi, MS SQL, PHP, MySQL, HTML, CSS, C#, .NET, ASP.NET
+- 👀 I’m interested in MS SQL, MySQL, HTML, CSS, C#, .NET, ASP.NET, PHP, Delphi
 - 🌱 I’m currently learning C#, .NET & ASP.NET
 - 💞️ I’m looking to collaborate on full stack web development
 - 📫 How to reach me ivo.tisljar@gmail.com
